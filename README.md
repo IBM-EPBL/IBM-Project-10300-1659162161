@@ -1,12 +1,13 @@
 # IBM-Project-10300-1659162161
-Corporate Employee Attrition Analytics
-ASSIGNMENT 1
+CORPORATE EMPLOYEE ATTRITION ANALYTICS
 
-UPLOADING THE DATASET TO COGNOS ANALYTICS, EXPLORE AND VISUALIZE THE DATASET
+PROJECT DESCRIPTION:
+    The key to success in any organization is attracting and retaining top talent. As an HR analyst one of the key task is to determine which factors keep employees at the company and which prompt others to leave. Given in the data is a set of data points on the employees who are either currently working within the company or have resigned. The objective is to identify and improve these factors to prevent loss of good people.
+    
+TEAM ID: PNT2022TMID38027
 
-ASSIGNMENT 2
-
-Pharma Sales Dashboard
-
-Challenge:- Upload the dataset to Cognos Analytics, prepare the data, explore and Create Interactive
-Dashboard.
+TEAM MEMBERS: 
+   1.Team leader: Lingareddy Sai dhathri
+   2.Team member: Nishanthi A
+   3.Team member: Priyadharshini M
+   4.Team member: Sneha M
